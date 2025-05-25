@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  color: black;
+  margin-top: 2rem;
+}
+
+.product-detail-img {
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+body {
+  background-color: #282c34;
+}
+
+button.btn {
+  font-weight: 600;   /* semi-bold */
+}
