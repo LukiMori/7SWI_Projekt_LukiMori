@@ -1,4 +1,4 @@
-# Final Project 7SWI – E-shop backend
+# Final Project 7SWI – E-shop 
 
 Springboot aplikace pro e-shop s využitím Spring Data JPA, Spring Security do předmětu 7SWI1 za pomocí Reactu.
 Projekt využívá Docker Desktop pro spuštění databáze PostgreSQL a pro běh aplikace.
