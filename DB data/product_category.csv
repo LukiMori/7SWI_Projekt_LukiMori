@@ -1,0 +1,11 @@
+id,description,name
+1,Výpočetní jednotky počítače zajišťující výkon a rychlost systému.,Procesory
+2,"Komponenty pro zpracování obrazu a 3D grafiky, vhodné pro hraní i profesionální práci.",Grafické karty
+3,Klíčová součást pro propojení všech komponent uvnitř počítače.,Základní desky
+4,Operační paměti pro rychlý přístup k běžícím programům a systémovým datům.,Paměti RAM
+5,"Rychlá úložiště pro operační systém a aplikace, nabízející vysokou přenosovou rychlost.",SSD disky
+6,Klasické pevné disky s vysokou kapacitou vhodné pro ukládání většího množství dat.,HDD disky
+7,Zajišťují stabilní dodávku elektrické energie pro celý systém.,Napájecí zdroje
+8,Chladicí systémy pro udržení optimální teploty procesoru během zátěže.,Chlazení CPU
+9,"Konstrukce pro montáž všech hardwarových komponent, různé velikosti a styly.",PC skříně
+10,"Různé doplňky jako kabely, redukce, ovládací panely nebo držáky ventilátorů.",Příslušenství
