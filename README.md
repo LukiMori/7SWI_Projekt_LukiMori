@@ -14,7 +14,7 @@ Projekt využívá Docker Desktop pro spuštění databáze PostgreSQL a pro bě
 - Docker Desktop
 
 ## Spuštění aplikace
-1. **Build projektu**: Nejprve je nutné v projektu inicializovat Maven data pomocí `Build Maven Project`. Ve struktuře projektu nastavíme SDK na JDK21.
+1. **Build projektu**: Nejprve je nutné v projektu inicializovat Maven data. To můžeme udělat tak, že v našem IDE otevřeme soubor pom.xml, který by naše IDE měla poznat jako Maven soubor a načíst z něj data. Poté musíme v struktuře projektu nastavit SDK na JDK 21.
 2. **Docker**: Ujistěte se, že máte nainstalovaný Docker Desktop a běží na vašem počítači.
 3. **Databáze**: Databázi lze spustit pomocí spuštění souboru `docker-compose.yml`, který vytvoří kontejner s PostgreSQL (pokud ještě neexistuje) a následně jej spustí.
 4. **Vložení dat do databáze**: Pro vložení testovacích dat importujte CSV soubory z adresáře `DB data` do databáze (například pomocí IDE nástrojů, pokud to umožňují). CSV soubory obsahují testovací data pro všechny potřebné tabulky (uživatelé, produkty, kategorie atd.). CSV mají jako první řádek header s názvy sloupců a jsou odděleny čárkou (`,`).  <br /> **Doporučené pořadí importu (pokud nelze vložit všechny najednou):**
